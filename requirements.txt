@@ -1,4 +1,4 @@
-sktime
+sktime[all_extras]
 matplotlib
 pandas
 tsbootstrap
